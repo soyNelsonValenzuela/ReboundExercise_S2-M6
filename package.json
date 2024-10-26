@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "fake-data-builder": "^0.1.11"
+  },
+  "name": "reboundexercise_s2-m3",
+  "version": "1.0.0",
+  "main": "fakeData.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Valenzuela",
+  "license": "ISC",
+  "description": "Ejercicio de comprobacion de sesion 2 modulo 6",
+  "dependencies": {
+    "nanoid": "^5.0.7"
+  }
+}
